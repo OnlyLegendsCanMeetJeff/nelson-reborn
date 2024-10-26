@@ -24,7 +24,7 @@
 </p>
 
 ## Overview
-Hello! The EaglercraftX 1.19 server project is an enhanced version of the original Eaglercraft server which is an enhanced version of CaenJones's server which incorporates items, mobs, structures, and other properties from Minecraft 1.19. Please note that some mobs and textures may be missing (eg: Drowned texture).
+Hello! The EaglercraftX 1.19 server project is an enhanced version of CaenJones's Eaglercraft server which incorporates items, mobs, structures, and other properties from Minecraft 1.19. Please note that some mobs and textures may be missing (eg: Drowned texture).
 <br>
 <br>
 If you like this project and want to support it, please consider making a fork or giving it a :star:!
