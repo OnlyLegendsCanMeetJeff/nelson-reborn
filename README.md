@@ -58,7 +58,7 @@ If your server is not starting after a crash, try deleting the `server/world/ses
 
 ## Plugin Installation
 - Navigate to `server/plugins` and `bungee/plugins`.
-- Paste the plugin `.jar` file and create a separate directory for additional data.
+- Paste the plugin `.jar` file.
 - Restart the server to activate the plugin.
 
 ## FAQ
