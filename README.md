@@ -13,13 +13,13 @@
 
 <p align="center">
  <a href="https://github.com/iddu0/EaglercraftX-1.19-Server-Reborn/blob/main/install.sh">
-    <img src="https://github.com/iddu0/iddu0.github.io/blob/9d7fabe4818cbb535a1ed04d3f70943128331382/files/Photos/Misc/EaglerCraft-Server%20Download%20for%20Linux.png" alt="Description here" width="200" height="59">
+    <img src="https://github.com/iddu0/iddu0.github.io/blob/3be29f9189f50ee0bd5d7f4e89fc36c3d575ff5f/files/Photos/Misc/EaglerCraft-Server_Download_for_Linux-removebg-preview.png" alt="Description here" width="200" height="59">
  </a>
  <a href="https://github.com/iddu0/EaglercraftX-1.19-Server-Reborn/blob/main/install.sh">
-    <img src="https://github.com/garlontas/buttons/blob/main/buttons/200x59/macos-download_2.svg" alt="Description here" width="200" height="59">
+    <img src="https://github.com/iddu0/iddu0.github.io/blob/3be29f9189f50ee0bd5d7f4e89fc36c3d575ff5f/files/Photos/Misc/EaglerCraft-Server_Download_for_macOS-removebg-preview.png" alt="Description here" width="200" height="59">
  </a>
  <a href="https://github.com/iddu0/EaglercraftX-1.19-Server-Reborn/blob/main/install.bat">
-    <img src="https://raw.githubusercontent.com/garlontas/buttons/main/buttons/200x59/windows-download.svg" alt="Description here" width="200" height="59">
+    <img src="https://github.com/iddu0/iddu0.github.io/blob/3be29f9189f50ee0bd5d7f4e89fc36c3d575ff5f/files/Photos/Misc/EaglerCraft-Server_Download_for_Windows-removebg-preview.png" alt="Description here" width="200" height="59">
  </a>
 </p>
 
