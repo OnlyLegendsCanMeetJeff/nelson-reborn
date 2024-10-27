@@ -32,7 +32,7 @@ If you like this project and want to support it, please consider making a fork o
 
 ## Requirements 
 - **Minimum:** 2 Core CPU, 2GB RAM, and 5GB storage space.
-- **Recommended:** 8GB DDR4 RAM, 4-core x64 CPU, over 20GB free storage, and network speeds of 750 MBPS - 1 GBPS or higher for optimal performance.
+- **Recommended:** 8GB DDR3 RAM, 4-core x64 CPU, over 20GB free storage, and network speeds of 750 MBPS - 1 GBPS or higher for optimal performance.
 
 ## Updating Existing Servers
 1. Clone the server repository: `git clone https://github.com/iddu0/EaglercraftX-1.19-Server-Reborn`
