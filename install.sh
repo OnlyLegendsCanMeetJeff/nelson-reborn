@@ -2,7 +2,7 @@
 
 sudo apt update
 sudo apt install git curl default-jre default-jdk -y
-git clone https://github.com/CaenJones/EaglercraftX-1.19-Server
+git clone https://github.com/iddu0/EaglercraftX-1.19-Server-Reborn
 mv EaglercraftX-1.19-Server server
 
 
