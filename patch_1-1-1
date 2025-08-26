@@ -2,3 +2,4 @@ Patch notes for V.1.1.1
 - Updated Client to Version u53
 - New launch screen
 - Optimisied server code & config
+- Conversion to WebAssembly Client is in progress
