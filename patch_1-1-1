@@ -3,3 +3,5 @@ Patch notes for V.1.1.1
 - New launch screen
 - Optimisied server code & config
 - Conversion to WebAssembly Client is in progress
+- Nvm Javascript version got already replaced. WebAssembly implemented.
+- Work on the project continues again
