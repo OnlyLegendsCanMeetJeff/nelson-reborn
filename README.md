@@ -8,6 +8,7 @@
 # Nelson Reborn
 
 ## Introduction 
+IMPORTANT: THIS IS A WORK IN PROGRESS PROJECT WHICH ISN'T RELEASED YET! ALREADY EXISTING FILES ARE NOT A PART OF THE SERVER ANYMORE AND DO NOT WORK!!!
 Hello there! This EaglercraftX 1.8.8 server revival project is a reproduced version of IsmaelTech's server-test which provides easy to use setup options, a costumizable game experience and a stable connection to easily invite friends and other people to your server without any issues!
 Please note that this project is still under development and some errors may encounter.
 <br><br>
